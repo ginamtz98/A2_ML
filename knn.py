@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Gina Martinez
 # FILENAME: knn.py
-# SPECIFICATION:
+# SPECIFICATION: reads the file binary_points.csv and outputs the LOO-CV error rate for 1NN 
 # FOR: CS 4200- Assignment #2
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: hours
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard vectors and arrays
