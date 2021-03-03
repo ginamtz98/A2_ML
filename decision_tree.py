@@ -1,9 +1,9 @@
 # -------------------------------------------------------------------------
 # AUTHOR: Gina Martinez
 # FILENAME: decision_tree.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: trains, tests, and outputs the performance of the models created by using each training set on the test set provided
 # FOR: CS 4200- Assignment #2
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 2 days
 # -----------------------------------------------------------*/
 
 # IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard vectors and arrays
